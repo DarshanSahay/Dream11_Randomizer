@@ -1,4 +1,9 @@
 # Dream11_Randomizer
+-Choose Leagues
+-Choose two teams
+-Select the players in playing 11
+-Use Filter or Search them
+-Generate Team
 
 ## AppScreenshots
 <p><img align ="centre"![alt text] src = "https://github.com/DarshanSahay/Dream11_Randomizer/blob/main/Demo%20Images/Demo_1.png" width="270" height="603" /></p>
